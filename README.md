@@ -24,3 +24,4 @@ Specifically for Snakes! Why did it have to be Snakes!
 1. Ensure that pygame is loaded (if you type import pygame into IDLE, you should have no errors).
 2. Ensure that both the apple.png and snakehead.png are in the same folder location as the .py file with code for game.
    Note: apple is 30 pixels x 30 pixels, and snakehead is 20 pixels x 20 pixels!
+   See: for reference -> https://github.com/kammitama5/Python_Games/blob/master/600_appleingame.png
