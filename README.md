@@ -19,7 +19,7 @@ Edit -> Go to Line (Alt + G), which allows you to Search number line.
 
 ========================================================
 
-Specifically for Snakes! Why did it have to be Snakes!
+Specifically for "Snakes! Why did it have to be Snakes!"
 
 1. Ensure that pygame is loaded (if you type import pygame into IDLE, you should have no errors).
 2. Ensure that both the apple.png and snakehead.png are in the same folder location as the .py file with code for game.
